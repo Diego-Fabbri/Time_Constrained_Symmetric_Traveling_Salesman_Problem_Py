@@ -1,0 +1,14 @@
+Time = 0.08
+Makespan (Obj value) = 252.4
+Solver Status is = ok
+Termination Condition is = optimal
+ 
+---> Node 0 is visited at time 0.0  (t[ 0 ])
+---> Node 1 is visited at time 224.5  (t[ 1 ])
+---> Node 2 is visited at time 91.3  (t[ 2 ])
+---> Node 3 is visited at time 156.3  (t[ 3 ])
+---> Node 4 is visited at time 195.7  (t[ 4 ])
+---> Node 5 is visited at time 110.1  (t[ 5 ])
+---> Node 6 is visited at time 30.9  (t[ 6 ])
+---> Node 7 is visited at time 144.1  (t[ 7 ])
+---> Node 8 is visited at time 252.4  (t[ 8 ])
